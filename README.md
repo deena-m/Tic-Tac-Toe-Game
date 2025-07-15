@@ -50,7 +50,8 @@ python main.py
 
 ## 📝 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -60,4 +61,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - GitHub: [github.com/deena-m](https://github.com/deena-m)  
 - LinkedIn: [linkedin.com/in/deena-m](https://linkedin.com/in/deena-m)
 
+---
+
+## 📌 Tags
+
+`#Python` `#Tkinter` `#TicTacToe` `#Game` `#DesktopApp` `#BeginnerProject`
 
