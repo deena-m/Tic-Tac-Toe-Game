@@ -47,11 +47,11 @@ cd tic-tac-toe-game
 python main.py
 
 ---
-#📝 License
+###📝 License
 This project is licensed under the MIT License.
 
 ---
-#🙋‍♂️ Author
+###🙋‍♂️ Author
 Deena M
 GitHub: github.com/deena-m
 LinkedIn: linkedin.com/in/deena-m
