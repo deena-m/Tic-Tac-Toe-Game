@@ -33,21 +33,6 @@ A Python-based desktop version of the classic **Tic Tac Toe** game, enhanced wit
 
 - Python 3.6 or higher
 - No external libraries needed (uses standard library)
-
-### 📥 Installation & Run
-
-```bash
-# Clone the repository
-git clone https://github.com/deena-m/Tic-Tac-Toe-Game.git
-
-# Move into the directory
-cd tic-tac-toe-game
-
-# Run the game
-python main.py
-
----
-
 ---
 
 ## 📝 License
@@ -68,5 +53,20 @@ See the [LICENSE](LICENSE) file for details.
 ## 📌 Tags
 
 `#Python` `#Tkinter` `#TicTacToe` `#Game` `#DesktopApp` `#BeginnerProject`
+
+
+### 📥 Installation & Run
+
+```bash
+# Clone the repository
+git clone https://github.com/deena-m/Tic-Tac-Toe-Game.git
+
+# Move into the directory
+cd tic-tac-toe-game
+
+# Run the game
+python main.py
+
+---
 
 
